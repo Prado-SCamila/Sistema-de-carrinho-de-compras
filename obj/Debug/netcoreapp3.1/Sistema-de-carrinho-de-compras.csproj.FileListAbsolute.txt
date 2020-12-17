@@ -1,0 +1,13 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\bin\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.exe
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\bin\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.deps.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\bin\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.runtimeconfig.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\bin\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.runtimeconfig.dev.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\bin\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\bin\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Carrinho de compras\Sistema-de-carrinho-de-compras\obj\Debug\netcoreapp3.1\Sistema-de-carrinho-de-compras.genruntimeconfig.cache
